@@ -1,5 +1,5 @@
 {
-  "buildCommand": "bash run.sh",
+  "buildCommand": "node --version",
   "crons": [
     {
       "path": "/api/cron/1m",
